@@ -1,4 +1,3 @@
-import os
 import json
 from .api import api
 
