@@ -1,0 +1,50 @@
+[
+    {
+        "country_code": 275,
+        "country_name": "미국",
+        "date": 201701,
+        "visit_count": 55739
+    },
+    {
+        "country_code": 275,
+        "country_name": "미국",
+        "date": 201702,
+        "visit_count": 50705
+    },
+    {
+        "country_code": 275,
+        "country_name": "미국",
+        "date": 201703,
+        "visit_count": 68719
+    },
+    {
+        "country_code": 275,
+        "country_name": "미국",
+        "date": 201704,
+        "visit_count": 81439
+    },
+    {
+        "country_code": 275,
+        "country_name": "미국",
+        "date": 201705,
+        "visit_count": 80489
+    },
+    {
+        "country_code": 275,
+        "country_name": "미국",
+        "date": 201706,
+        "visit_count": 88276
+    },
+    {
+        "country_code": 275,
+        "country_name": "미국",
+        "date": 201707,
+        "visit_count": 78526
+    },
+    {
+        "country_code": 275,
+        "country_name": "미국",
+        "date": 201708,
+        "visit_count": 69434
+    }
+]
